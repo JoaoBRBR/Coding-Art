@@ -1,0 +1,2 @@
+Codigo feito para verificar irregularidades de uma escada e
+encontrar um tamanho perfeito. não sei se faz sentido kkk.
